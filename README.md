@@ -1,6 +1,6 @@
 # Descrição
 
-Sistema bancário simples utilizando python.
+Sistema bancário simples utilizando python, com estrutura condicional e estrutura de repetição.
 
 # Funcionalidades:
 
