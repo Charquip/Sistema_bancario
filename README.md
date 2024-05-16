@@ -14,7 +14,8 @@ Extrato
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 
-![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=Git&logoColor=white) (Opcional)
+![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=Git&logoColor=white) 
+(Opcional)
 
 # Como usar:
 
