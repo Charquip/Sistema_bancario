@@ -21,5 +21,5 @@ Extrato
 
 # Como usar:
 
-Realize o download do arquivo.py ou clone o repositório e execute o arquivo utilizando o terminal, o git ou uma IDE de sua preferência.
+Realize o download do arquivo sistema_bancario.py ou clone o repositório e execute o arquivo utilizando o terminal, o git ou uma IDE de sua preferência.
 
