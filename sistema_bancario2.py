@@ -1,4 +1,4 @@
-def menu(): 
+def menu():
     menu = """\n
 ========== MENU ==========
 [1] Depositar
