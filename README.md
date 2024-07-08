@@ -1,14 +1,12 @@
 # Descrição
 
-Sistema bancário simples utilizando python, com estrutura condicional e estrutura de repetição.
+Sistema bancário simples utilizando python, com 3 níveis de progressão.
 
-# Funcionalidades:
+Nível 1 = Utiliza conceitos básicos em Python.
 
-Saque
+Nível 2 = Implementa funções ao código.
 
-Depósito
-
-Extrato
+Nível 3 = Modelagem do código utilizando Programação Orientada a Objetos (POO).
 
 # Requisitos
 
